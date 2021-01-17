@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/cj123/sessions"
-	"github.com/etcd-io/bbolt"
+	"go.etcd.io/bbolt"
 	"github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v2"
 )
